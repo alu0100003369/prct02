@@ -1,0 +1,8 @@
+¿Qué es GibHut?
+Es una máquina remota para almacenar copias de un repositorio
+
+¿Qué es una clave pública?
+Es una clave que conoce o puede conocer cualquier usuario y sirve para acceder a un repositorio. 
+
+¿Qué es un repositorio remoto?
+Es un directorio alojado en un lugar remoto donde se pueden almacenar todos los cambios realizados en un proyecto. 
